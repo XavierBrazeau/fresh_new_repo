@@ -1,0 +1,14 @@
+{
+  "remote_files": {
+    "chrome": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "firefox": "https://download-origin.cdn.mozilla.net/pub/firefox/releases/67.0.1/win64-EME-free/en-US/Firefox Setup 67.0.1.exe",
+    "notepad++": "http://kvh-ca-kate02.ca.kronos.com:8080/userContent/software/window/npp.7.6.4.Installer.exe",
+    "zulu": "http://kvh-ca-kate02.ca.kronos.com:8080/userContent/software/window/zulu8.15.0.1-jdk8.0.92-win_x64.msi"
+  },
+  "file_paths": {
+    "chrome": "C:\\Users\\sldev\\Documents\\chrome_installer.exe",
+    "firefox": "C:\\Users\\sldev\\Documents\\Firefox_Installer.exe",
+    "notepad++": "C:\\Users\\sldev\\Documents\\notepad++_installer.exe",
+    "zulu": "C:\\Users\\sldev\\Documents\\zulu_installer.msi"
+  }
+}

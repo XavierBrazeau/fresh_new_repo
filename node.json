@@ -1,0 +1,10 @@
+{
+  "run_list": [
+    "recipe[test_windows_software::notepad]",
+    "recipe[test_windows_software::chrome]",
+    "recipe[test_windows_software::firefox_version]",
+    "recipe[test_windows_software::firefox]",
+    "recipe[test_windows_software::uninstall_oracle]",
+    "recipe[test_windows_software::zulu]"
+  ]
+}
